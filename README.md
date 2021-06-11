@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liuchengshuo-taiwan
 - 👀 I’m interested in English
 - 🌱 I’m currently learning Python
-- 📫 How to reach me : E-mail : liuchengshuo.taiwan@gmail.com
+- 📫 E-mail : liuchengshuo.taiwan@gmail.com
 
 <!---
 Liuchengshuo-taiwan/Liuchengshuo-taiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
